@@ -37,5 +37,6 @@ destroy(message)
 end on
 
 event open;open(w_001);
+//001
 end event
 
