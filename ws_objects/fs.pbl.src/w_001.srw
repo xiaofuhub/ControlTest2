@@ -60,8 +60,8 @@ destroy(this.cb_1)
 end on
 
 type lv_1 from listview within w_001
-integer x = 1106
-integer y = 352
+integer x = 1061
+integer y = 244
 integer width = 736
 integer height = 700
 integer taborder = 20
