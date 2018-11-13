@@ -132,8 +132,6 @@ string facename = "Tahoma"
 string text = "blue"
 end type
 
-//001
-
 event clicked;applytheme("Flat Design Blue")
 end event
 
