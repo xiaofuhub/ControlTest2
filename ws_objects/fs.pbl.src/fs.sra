@@ -1,4 +1,5 @@
-﻿$PBExportHeader$fs.sra
+
+$PBExportHeader$fs.sra
 $PBExportComments$Generated Application Object
 forward
 global type fs from application
@@ -37,6 +38,7 @@ destroy(message)
 end on
 
 event open;open(w_001);
+//222
 //001 002
 end event
 
