@@ -31,10 +31,6 @@ vtb_1 vtb_1
 htb_1 htb_1
 cb_2 cb_2
 cb_1 cb_1
-string themestylename = "Flat Design Silver"
-long richtextedittype = 2
-long richtexteditversion = 1
-string richtexteditkey = ""
 end type
 global w_001 w_001
 
@@ -60,8 +56,8 @@ destroy(this.cb_1)
 end on
 
 type lv_1 from listview within w_001
-integer x = 1061
-integer y = 244
+integer x = 1106
+integer y = 352
 integer width = 736
 integer height = 700
 integer taborder = 20
@@ -82,8 +78,8 @@ long statepicturemaskcolor = 536870912
 end type
 
 type vtb_1 from vtrackbar within w_001
-integer x = 485
-integer y = 516
+integer x = 288
+integer y = 428
 integer width = 155
 integer height = 544
 integer maxposition = 100
