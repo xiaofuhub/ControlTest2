@@ -154,10 +154,6 @@ tab_1 tab_1
 ov_1 ov_1
 r_1 r_1
 rr_1 rr_1
-string themestylename = "Flat Design Blue"
-long richtextedittype = 0
-long richtexteditversion = 1
-string richtexteditkey = ""
 end type
 global w_allcontrol w_allcontrol
 
@@ -386,7 +382,7 @@ boolean border = true
 borderstyle borderstyle = stylelowered!
 date maxdate = Date("2999-12-31")
 date mindate = Date("1800-01-01")
-datetime value = DateTime(Date("2018-11-09"), Time("09:55:21.000000"))
+datetime value = DateTime(Date("2018-12-14"), Time("09:36:37.000000"))
 integer textsize = -12
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
@@ -1169,7 +1165,7 @@ string tag = "oval"
 long linecolor = 33554432
 integer linethickness = 4
 long fillcolor = 1073741824
-integer x = 1330
+integer x = 1266
 integer y = 228
 integer width = 320
 integer height = 168
